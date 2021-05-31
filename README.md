@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omar-ben-omrane" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="omar-ben-omrane" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11117812" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="11117812" height="30" width="40" /></a>
-<a href="https://fb.com/omarbo987" target="blank"><img align="center" src="https://i.pinimg.com/originals/78/db/c9/78dbc9c84d0124b0b9f63b896b12b3f1.png" alt="omarbo987" height="30" width="40" /></a>
-<a href="https://instagram.com/omarbenomrane" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="omarbenomrane" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omarbo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="omarbo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omar-ben-omrane" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="omar-ben-omrane" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11117812" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="11117812" height="30" width="40" /></a>
+<a href="https://fb.com/omarbo987" target="_blank"><img align="center" src="https://i.pinimg.com/originals/78/db/c9/78dbc9c84d0124b0b9f63b896b12b3f1.png" alt="omarbo987" height="30" width="40" /></a>
+<a href="https://instagram.com/omarbenomrane" target="_blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="omarbenomrane" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omarbo" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="omarbo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
