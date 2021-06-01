@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack MERN, Machine Learning & Big Data**
 
-- 👨‍💻 All of my projects are available at [github.com/Omar-BO?tab=repositories](github.com/Omar-BO?tab=repositories)
+- 👨‍💻 All of my projects are available at [Omar's GitHub Page!](github.com/Omar-BO?tab=repositories)
 
 - 📫 How to reach me **benomraneomar@gmail.com**
 
