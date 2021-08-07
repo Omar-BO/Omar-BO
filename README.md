@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-bo&label=Profile%20views&color=0e75b6&style=flat" alt="omar-bo" /> </p>
 
-- 🌱 I’m currently learning **Full Stack MERN, Machine Learning & Big Data**
+- 🌱 I’m currently learning ** Machine Learning, Big Data & Business Intelligence**
 
 - 👨‍💻 All of my projects are available at [Omar's GitHub Page!](github.com/Omar-BO?tab=repositories)
 
